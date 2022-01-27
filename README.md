@@ -3,7 +3,7 @@
 Overview
 The purpose of this project was to merge data of a rideshare company called PyBer. After merging, the project was analyzed for performance and trends. There are three different market types: Rural, Suburban, and Urban from Jan to April. There was also a CSV of city, date, fare and id.
 
-Results
+##Results
 Here is a summary table of rides after consolidating into a summary dataframe. From the data we can conclude Urban cities have the highest rides, total fares, and total drivers. This is driving the average fare per driver higher in rual and suburban cities.  
 
 <img width="316" alt="Summary-DF" src="https://user-images.githubusercontent.com/95591222/151282481-f67eb99c-8fd6-4402-a81c-8e90f0663233.png">
